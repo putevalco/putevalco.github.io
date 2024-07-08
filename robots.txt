@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://putevalco.github.io/sitemap
+Sitemap: https://putevalco.github.io/app/sitemap
+Sitemap: https://putevalco.github.io/assets/sitemap
+Sitemap: https://putevalco.github.io/css/sitemap
+Sitemap: https://putevalco.github.io/includes/sitemap
+Sitemap: https://putevalco.github.io/item/sitemap
+Sitemap: https://putevalco.github.io/src/sitemap
